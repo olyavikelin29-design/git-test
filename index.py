@@ -1,2 +1,2 @@
-a = 5
-print(a)
+print(5*8)
+print("a,f,h")
