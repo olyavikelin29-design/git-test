@@ -1,2 +1,5 @@
-for i in range(1,78):
+a = "wow"
+for i in a:
     print(i)
+for i in range(5):
+    print(a)
