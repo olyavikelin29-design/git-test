@@ -1,2 +1,2 @@
-for i in range(1,78):
-    print(i)
+print('Python')
+print('JS')
