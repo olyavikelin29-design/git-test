@@ -1,1 +1,1 @@
-print('ukr')
+print('ukraine')
