@@ -1,2 +1,3 @@
-for i in range(9,78):
+f = "adkd"
+for i in f:
     print(i)
